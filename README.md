@@ -1,0 +1,1 @@
+# QR-Scanner---qr-to-text
